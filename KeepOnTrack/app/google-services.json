@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169829987283",
+    "firebase_url": "https://keepontrack-c5c8a.firebaseio.com",
+    "project_id": "keepontrack-c5c8a",
+    "storage_bucket": "keepontrack-c5c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169829987283:android:74f6f37dd18e94d1bcb526",
+        "android_client_info": {
+          "package_name": "com.saskia.keepontrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169829987283-b05a4chkj7sss294466ic43bu5qtk3l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saskia.keepontrack",
+            "certificate_hash": "fa82a636d928e4c46e34913b4d13e39c581dc388"
+          }
+        },
+        {
+          "client_id": "169829987283-q1hqdj5j0okjtnivrnpeqk07rtd5ieg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLCiPlmceTR0Wmzr7wxgiCla20_V_8cyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169829987283-q1hqdj5j0okjtnivrnpeqk07rtd5ieg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
